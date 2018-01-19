@@ -1,0 +1,32 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario3.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\Base de datos1.accdb
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario5.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario6.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario7.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario8.resources
+C:\Users\Gabriel\Desktop\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulario_9.resources
+D:\Proyectos Visual Studio 2010\Programa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Proyectos Visual Studio 2010\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Proyectos Visual Studio 2010\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Proyectos Visual Studio 2010\Programa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
